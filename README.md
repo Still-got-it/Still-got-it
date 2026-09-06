@@ -1,5 +1,5 @@
 [![header](<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/d9d4068c-9972-49c0-9bf7-4defd9bf1704" />
-)](https://github.com/Still-got-it)
+)(https://github.com/Still-got-it)
 
 <samp>
 :3
