@@ -1,14 +1,10 @@
-<div align="center">
+[![header](./assets/banner.png)](https://github.com/Still-got-it)
 
-<img src="https://github.com/user-attachments/assets/83d49b77-631e-429b-8086-e7e9d0bc00bd" />
-" width="100%" alt="banner"/>
-
-# Hi, I'm Still-got-it 👋
-
-**This is a story of a dev and some code.**
-**You should know upfront — it's not always a love story.**
-
-</div>
+<samp>
+:3
+this is not a love story // just a dev and their code
+<a href="#"><strong>portfolio</strong></a> | <a href="#"><strong>blog</strong></a> | <a href="#"><strong>x (twitter)</strong></a> | <a href="mailto:you@example.com"><strong>email</strong></a>
+</samp>
 
 ---
 
@@ -25,11 +21,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Still-got-it&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Still-got-it&theme=tokyonight&hide_border=true)
 
-### 📬 Find Me
-`links here — X · LinkedIn · portfolio · email`
-
-<div align="center">
-
-*Day 1 of shipping something great. Or Day 500. Who's counting?*
-
-</div>
+<samp><i>Day 1 of shipping something great. Or Day 500. Who's counting?</i></samp>
