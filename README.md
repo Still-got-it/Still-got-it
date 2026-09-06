@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Still-got-it/Still-got-it/blob/main/banner.png" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/Still-got-it/Still-got-it/main/banner.png" width="100%">
 
 <br><br>
 
@@ -8,9 +8,9 @@
 
 :3
 
-⋆｡°✩
+<br>
 
-my emiteness completes me
+my emptiness completes me
 
 </samp>
 
